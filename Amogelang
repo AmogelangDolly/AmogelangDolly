@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+
+<title>Hello , world!</title>
+</head>
+<body>
+<h1>Hello ,world!</h1>
+<h2>this is my sub title</h2>
+<p>from dolly</p>
+ <img src="images/1.jpg" alt="dolly in the picture"/>
+
+
+ 
+</body>
+</html>
+
